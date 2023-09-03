@@ -1,7 +1,7 @@
 // import About from '@/Components/About'
 // import Contact from '@/Components/Contact'
 
-import { CustomFilter } from '@/Components'
+import { CarCard, CustomFilter } from '@/Components'
 import Hero from '@/Components/Hero'
 import SearchBar from '@/Components/SearchBar'
 import { fetchCars } from '@/utils'
@@ -31,7 +31,13 @@ const allCars = await fetchCars()
       </div>
       
       { !isDataEmpty ? (
-        <section>We Have Cars</section>
+        <section>
+          <div className='home__cars-wrapper'>
+              {allCars?.map((car) => (
+                <CarCard car={ car} />
+                ))}
+          </div>
+        </section>
       ) : ( 
       <div className='home__error-container'>
         <h1 className='text-black text-xl font-bold'>No result!</h1>
