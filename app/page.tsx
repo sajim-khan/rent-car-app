@@ -30,8 +30,8 @@ export default async function Home({ searchParams }: HomeProps) {
       <div className='home__filters'>
       <SearchBar />
         <div className='home__filter-container'>
-          <CustomFilter title="fuel" />
-          <CustomFilter title="year" />
+          {/* <CustomFilter title="fuel" />
+          <CustomFilter title="year" /> */}
         </div>
         
       </div>
@@ -53,6 +53,7 @@ export default async function Home({ searchParams }: HomeProps) {
     </div>
     {/* <About></About>
     <Contact></Contact> */}
+    
     </main>
   )
 }
