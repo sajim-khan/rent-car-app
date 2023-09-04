@@ -2,6 +2,7 @@ import Navbar from '@/Components/Navbar'
 import './globals.css'
 import Footer from '@/Components/Footer'
 import Gallery from '@/Components/Gallery'
+import Blog from '@/Components/Blog'
 
 export const metadata = {
   title: 'CarHub',
@@ -19,6 +20,7 @@ export default function RootLayout({
       <Navbar></Navbar>
       {children}
       <Gallery></Gallery>
+      <Blog></Blog>
       <Footer></Footer>
       </body>
     </html>
