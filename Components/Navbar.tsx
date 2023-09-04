@@ -12,8 +12,9 @@ const Navbar = () => {
                </Link> 
                </div>
                <div className='flex justify-center items-center font-bold'>
-                <p className='mr-5'>Home</p>
-                <p className='mr-5'>About</p>
+                
+                <a href="/"><p className='mr-5'>Home</p></a>
+                <Link href='/About'><p className='mr-5'>About</p></Link>
                 <p className='mr-5'>Find Car</p>
                 <p className='mr-5'>Blog</p>
                 <p className='mr-5 bg-shadow-xl p-2 rounded-full'>Contact</p>

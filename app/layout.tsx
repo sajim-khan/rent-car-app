@@ -3,6 +3,7 @@ import './globals.css'
 import Footer from '@/Components/Footer'
 import Gallery from '@/Components/Gallery'
 import Blog from '@/Components/Blog'
+import Contact from '@/Components/Contact'
 
 export const metadata = {
   title: 'CarHub',
@@ -16,13 +17,16 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className='relative'>
+      <body className='relative bg-cyan-100'>
       <Navbar></Navbar>
       {children}
       <Gallery></Gallery>
       <Blog></Blog>
+      <Contact></Contact>
       <Footer></Footer>
       </body>
     </html>
   )
 }
+
+
