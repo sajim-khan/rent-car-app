@@ -17,7 +17,7 @@ const Blog = () => {
               />
               <div className="p-6 space-y-2 lg:col-span-5">
                 <h3 className="text-2xl font-semibold sm:text-4xl group-hover:underline group-focus:underline">
-                  Noster tincidunt reprimique ad pro
+                  Noster tincidunt reprimique add a car
                 </h3>
                 <span className="text-xs dark:text-gray-400">
                   February 19, 2021

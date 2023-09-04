@@ -4,6 +4,7 @@ import Footer from '@/Components/Footer'
 import Gallery from '@/Components/Gallery'
 import Blog from '@/Components/Blog'
 import Contact from '@/Components/Contact'
+import Star from '@/Components/Star'
 
 export const metadata = {
   title: 'CarHub',
@@ -22,6 +23,7 @@ export default function RootLayout({
       {children}
       <Gallery></Gallery>
       <Blog></Blog>
+      <Star></Star>
       <Contact></Contact>
       <Footer></Footer>
       </body>
