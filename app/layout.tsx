@@ -7,6 +7,7 @@ import Contact from '@/Components/Contact'
 import Star from '@/Components/Star'
 import Testimonials from '@/Components/Testimonials'
 import Team from '@/Components/Team'
+import Faq from '@/Components/Faq'
 
 export const metadata = {
   title: 'CarHub',
@@ -28,6 +29,7 @@ export default function RootLayout({
       <Star></Star>
       <Team></Team>
       <Testimonials></Testimonials>
+      <Faq></Faq>
       <Contact></Contact>
       <Footer></Footer>
       </body>
