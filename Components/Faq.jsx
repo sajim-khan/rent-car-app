@@ -15,59 +15,86 @@ const Faq = () => {
             <div className="space-y-4">
               <details className="w-full border rounded-lg">
                 <summary className="px-4 py-6 focus:outline-none focus-visible:ri">
-                  Ex orci laoreet egestas sapien magna egestas scelerisque?
+                  What car I should buy in Bangladesh?
                 </summary>
                 <p className="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">
-                  Lectus iaculis orci metus vitae ligula dictum per. Nisl per
-                  nullam taciti at adipiscing est.{" "}
+                  There are several renowned brands in Bangladesh like Toyota,
+                  Honda, Nissan, Mitsubishi, BMW you can choose from. Toyota is
+                  the most popular brand but other brands are also getting
+                  popular now a days. You can choose your car from the top
+                  brands in Bangladesh and pick a model that suits your need.
+                  Visit Bikroy and explorer 13,589+ numbers of car listed near
+                  your location.
                 </p>
               </details>
               <details className="w-full border rounded-lg">
                 <summary className="px-4 py-6 focus:outline-none focus-visible:ri">
-                  Lorem at arcu rutrum viverra metus sapien venenatis lobortis
-                  odio?
+                  Which car brand is the most reliable?
                 </summary>
                 <p className="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">
-                  Tincidunt ut hac condimentum rhoncus phasellus nostra. Magna
-                  porttitor egestas tincidunt neque vehicula potenti.{" "}
+                  If you are searching for a suitable car for your family which
+                  can meet your daily needs, you have come to the right place.
+                  Along with Toyota, Nissan, Honda, Mitsubishi, and many more,
+                  you can find great deals with your own requirements. At
+                  Bikroy, you can search and grab 13,589+ best deals from
+                  Toyota, Honda, Nissan, Mitsubishi, BMW. Every brand has its
+                  own collection of cars that can suit your requirements based
+                  on your budget.
                 </p>
               </details>
               <details className="w-full border rounded-lg">
                 <summary className="px-4 py-6 focus:outline-none focus-visible:ri">
-                  Eleifend feugiat sollicitudin laoreet adipiscing bibendum
-                  suscipit erat?
+                  Where I can buy a good car?
                 </summary>
                 <p className="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">
-                  Justo libero tellus integer tincidunt justo semper consequat
-                  venenatis aliquet imperdiet. Ultricies urna proin fusce nulla
-                  pretium sodales vel magna et massa euismod vulputate sed.{" "}
+                  Buying vehicles is now easy from your desired location and
+                  budget. Visit Bikroy to get Toyota, Honda, Nissan, Mitsubishi,
+                  BMW cars and browse through 13,589+ listings. To get your
+                  favorite model at Bangladesh, you can use filtering options
+                  like model, year, price, condition. Which will lead you to
+                  exactly that car you need. Go, browse and get the best deals
+                  now!
                 </p>
               </details>
               <details className="w-full border rounded-lg">
                 <summary className="px-4 py-6 focus:outline-none focus-visible:ri">
-                  Ex orci laoreet egestas sapien magna egestas scelerisque?
+                  Which car is best under low budget?
                 </summary>
                 <p className="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">
-                  Lectus iaculis orci metus vitae ligula dictum per. Nisl per
-                  nullam taciti at adipiscing est.{" "}
+                  There are several deals on low budget cars you can meet on
+                  Internet. To get a car within your choice and budget At
+                  Bikroy, you can visit the vast collection of Toyota, Honda,
+                  Nissan, Mitsubishi, BMW cars available in Bangladesh. From
+                  high to low, you can find the deals of every Reconditioned,
+                  Used, New car over here. Browse our 13,589+ deals to find,
+                  compare and buy cars. To narrow down your search intent you
+                  can use filtering options.
                 </p>
               </details>
               <details className="w-full border rounded-lg">
                 <summary className="px-4 py-6 focus:outline-none focus-visible:ri">
-                  Ex orci laoreet egestas sapien magna egestas scelerisque?
+                  How to check cars before buying?
                 </summary>
                 <p className="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">
-                  Lectus iaculis orci metus vitae ligula dictum per. Nisl per
-                  nullam taciti at adipiscing est.{" "}
+                  When you are looking for a car to buy, there are ways to put
+                  your eyes on it. Before you step on for any specific car
+                  brands like Toyota, Honda, Nissan, Mitsubishi, BMW, try to
+                  read the descriptions carefully, notice the images, prices,
+                  and other necessary information provided by the ad posters. To
+                  get your favorite cars, you can visit Bikroy at any time and
+                  from anywhere you want. We always recommend our users meet
+                  sellers in a secure place.
                 </p>
               </details>
               <details className="w-full border rounded-lg">
                 <summary className="px-4 py-6 focus:outline-none focus-visible:ri">
-                  Ex orci laoreet egestas sapien magna egestas scelerisque?
+                  Sell Cars easily on Bikroy
                 </summary>
                 <p className="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">
-                  Lectus iaculis orci metus vitae ligula dictum per. Nisl per
-                  nullam taciti at adipiscing est.{" "}
+                  Sell your Cars online and reach thousands of interested buyers
+                  while posting an ad in just 2 min. Adding a real image,
+                  setting up the right price and a good description will help
+                  you to get a good deal faster.
                 </p>
               </details>
             </div>
@@ -78,3 +105,5 @@ const Faq = () => {
 };
 
 export default Faq;
+
+
