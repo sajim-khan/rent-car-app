@@ -11,20 +11,25 @@ const Blog = () => {
               className="block max-w-sm gap-3 mx-auto sm:max-w-full group hover:no-underline focus:no-underline lg:grid lg:grid-cols-12 dark:bg-gray-900"
             >
               <img
-                src="https://source.unsplash.com/random/480x360"
+                src="https://images.pexels.com/photos/2127733/pexels-photo-2127733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt=""
                 className="object-cover w-full h-64 rounded sm:h-96 lg:col-span-7 dark:bg-gray-500"
               />
               <div className="p-6 space-y-2 lg:col-span-5">
                 <h3 className="text-2xl font-semibold sm:text-4xl group-hover:underline group-focus:underline">
-                  Noster tincidunt reprimique add a car
+                  Lamborghini Urus
                 </h3>
                 <span className="text-xs dark:text-gray-400">
                   February 19, 2021
                 </span>
                 <p>
-                  Ei delenit sensibus liberavisse pri. Quod suscipit no nam. Est
-                  in graece fuisset, eos affert putent doctus id.
+                  Raise the performance driving experience to a whole new level
+                  with the 2023 Lamborghini Urus Performante SUV. The first-ever
+                  Super Sport Utility Vehicle comes with a mightier powertrain
+                  than the previous generations to set new standards for
+                  performance driving experience on or off the road. Explore the
+                  key features of the 2023 Lamborghini Urus Performante at
+                  Lamborghini Palm Beach in West Palm Beach, FL.
                 </p>
               </div>
             </a>
