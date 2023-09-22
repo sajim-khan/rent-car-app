@@ -17,10 +17,10 @@ const Blog = () => {
               />
               <div className="p-6 space-y-2 lg:col-span-5">
                 <h3 className="text-2xl font-semibold sm:text-4xl group-hover:underline group-focus:underline">
-                  Lamborghini Urus
+                  Lamborghini
                 </h3>
                 <span className="text-xs dark:text-gray-400">
-                  February 19, 2021
+                  February 19, 2023
                 </span>
                 <p>
                   Raise the performance driving experience to a whole new level
@@ -42,20 +42,22 @@ const Blog = () => {
                 <img
                   role="presentation"
                   className="object-cover w-full rounded h-44 dark:bg-gray-500"
-                  src="https://source.unsplash.com/random/480x360?1"
+                  src="https://images.pexels.com/photos/8254082/pexels-photo-8254082.jpeg?auto=compress&cs=tinysrgb&w=600"
                 />
                 <div className="p-6 space-y-2">
                   <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
-                    In usu laoreet repudiare legendos
+                    Ferrari
                   </h3>
                   <span className="text-xs dark:text-gray-400">
-                    January 21, 2021
+                    January 21, 2023
                   </span>
                   <p>
-                    Mei ex aliquid eleifend forensibus, quo ad dicta apeirian
-                    neglegentur, ex has tantas percipit perfecto. At per tempor
-                    albucius perfecto, ei probatus consulatu patrioque mea, ei
-                    vocent delicata indoctum pri.
+                    Ferrari cars are renowned for their extraordinary
+                    combination of high-performance engines, exquisite
+                    aerodynamic design, advanced technology, limited production
+                    numbers, extensive customization options, and a rich racing
+                    heritage, making them the epitome of luxury and exclusivity
+                    in the automotive world.
                   </p>
                 </div>
               </a>
@@ -71,16 +73,23 @@ const Blog = () => {
                 />
                 <div className="p-6 space-y-2">
                   <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
-                    In usu laoreet repudiare legendos
+                    Audi
                   </h3>
                   <span className="text-xs dark:text-gray-400">
-                    January 22, 2021
+                    Mar 22, 2023
                   </span>
                   <p>
-                    Mei ex aliquid eleifend forensibus, quo ad dicta apeirian
-                    neglegentur, ex has tantas percipit perfecto. At per tempor
-                    albucius perfecto, ei probatus consulatu patrioque mea, ei
-                    vocent delicata indoctum pri.
+                    Audi, a renowned German automaker and part of the Volkswagen
+                    Group, is celebrated for its commitment to quality,
+                    innovation, and luxury. The company offers a wide range of
+                    vehicles, from sedans to SUVs, known for their Quattro
+                    all-wheel drive system and cutting-edge technology like the
+                    Virtual Cockpit and electrification with models such as the
+                    Audi e-tron. Audi Sport produces high-performance RS and R8
+                    models, while the brand has a storied history in
+                    motorsports, including Le Mans and Formula E. With a global
+                    presence and a focus on sustainability, Audi continues to be
+                    a leading force in the automotive industry.
                   </p>
                 </div>
               </a>
