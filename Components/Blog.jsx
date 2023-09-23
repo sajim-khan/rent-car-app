@@ -69,7 +69,7 @@ const Blog = () => {
                 <img
                   role="presentation"
                   className="object-cover w-full rounded h-44 dark:bg-gray-500"
-                  src="https://source.unsplash.com/random/480x360?2"
+                  src="https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 />
                 <div className="p-6 space-y-2">
                   <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
@@ -81,12 +81,8 @@ const Blog = () => {
                   <p>
                     Audi, a renowned German automaker and part of the Volkswagen
                     Group, is celebrated for its commitment to quality,
-                    innovation, and luxury. The company offers a wide range of
-                    vehicles, from sedans to SUVs, known for their Quattro
-                    all-wheel drive system and cutting-edge technology like the
-                    Virtual Cockpit and electrification with models such as the
-                    Audi e-tron. Audi Sport produces high-performance RS and R8
-                    models, while the brand has a storied history in
+                    innovation, and luxury. Audi Sport produces high-performance
+                    RS and R8 models, while the brand has a storied history in
                     motorsports, including Le Mans and Formula E. With a global
                     presence and a focus on sustainability, Audi continues to be
                     a leading force in the automotive industry.
