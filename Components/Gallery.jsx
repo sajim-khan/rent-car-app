@@ -43,7 +43,7 @@ const Gallery = () => {
             <img
               alt=""
               className="w-full h-full rounded shadow-sm min-h-48 dark:bg-gray-500 aspect-square"
-              src="https://www.audiusa.com/content/dam/nemo/ca/NoMo/Home/730x730/883x883_MY24---Q4-e-tron---Side-Profile---Driving.jpg"
+              src="https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Audi-Q3-300820222026.jpg&w=373&h=245&q=75&c=1"
             />
             <img
               alt=""

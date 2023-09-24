@@ -97,20 +97,24 @@ const Blog = () => {
                 <img
                   role="presentation"
                   className="object-cover w-full rounded h-44 dark:bg-gray-500"
-                  src="https://source.unsplash.com/random/480x360?3"
+                  src="https://hips.hearstapps.com/hmg-prod/images/bugatti-mistral-roadster-112-1660658850.jpg?resize=1200:*"
                 />
                 <div className="p-6 space-y-2">
                   <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
-                    In usu laoreet repudiare legendos
+                    Bugatti
                   </h3>
                   <span className="text-xs dark:text-gray-400">
-                    January 23, 2021
+                    January 7, 2023
                   </span>
                   <p>
-                    Mei ex aliquid eleifend forensibus, quo ad dicta apeirian
-                    neglegentur, ex has tantas percipit perfecto. At per tempor
-                    albucius perfecto, ei probatus consulatu patrioque mea, ei
-                    vocent delicata indoctum pri.
+                    Bugatti is a famous French carmaker known for its super-fast
+                    and super-expensive cars. They've been making cool cars
+                    since 1909.People love Bugatti cars for their unique design
+                    and top-notch technology. They're like works of art on
+                    wheels and are known for their exclusive style and high
+                    price tags. Bugatti's racing history and limited-edition
+                    models make them a symbol of luxury and speed in the car
+                    world.
                   </p>
                 </div>
               </a>
@@ -122,11 +126,11 @@ const Blog = () => {
                 <img
                   role="presentation"
                   className="object-cover w-full rounded h-44 dark:bg-gray-500"
-                  src="https://source.unsplash.com/random/480x360?4"
+                  src="https://car-images.bauersecure.com/wp-images/13349/1056x594/80-mercedes-amg-gt63-e-performance-hero.jpg"
                 />
                 <div className="p-6 space-y-2">
                   <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
-                    In usu laoreet repudiare legendos
+                    Mercedes
                   </h3>
                   <span className="text-xs dark:text-gray-400">
                     January 24, 2021
