@@ -18,7 +18,7 @@ const Gallery = () => {
             <img
               alt=""
               className="w-full h-full rounded shadow-sm min-h-48 dark:bg-gray-500 aspect-square"
-              src="https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/08/Mercedes-SLR-McLaren-Mansory.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5"
+              src="https://cdn.motor1.com/images/mgl/jlxPQy/s3/bugatti-chiron-profilee-2022.webp"
             />
             <img
               alt=""
@@ -33,7 +33,7 @@ const Gallery = () => {
             <img
               alt=""
               className="w-full h-full rounded shadow-sm min-h-48 dark:bg-gray-500 aspect-square"
-              src="https://i.pinimg.com/originals/ce/b0/0e/ceb00ec87ccc408b1626112c1657815a.jpg"
+              src="https://hd2.tudocdn.net/1018519?w=660&h=495"
             />
             <img
               alt=""

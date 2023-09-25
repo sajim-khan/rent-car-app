@@ -136,10 +136,13 @@ const Blog = () => {
                     January 24, 2021
                   </span>
                   <p>
-                    Mei ex aliquid eleifend forensibus, quo ad dicta apeirian
-                    neglegentur, ex has tantas percipit perfecto. At per tempor
-                    albucius perfecto, ei probatus consulatu patrioque mea, ei
-                    vocent delicata indoctum pri.
+                    Mercedes-Benz, a renowned German automaker founded in 1926,
+                    Mercedes-Benz offers a diverse range of vehicles, from
+                    compact cars to high-performance AMG models, and is globally
+                    recognized for its iconic models such as the S-Class and
+                    E-Class. With a strong presence worldwide, Mercedes-Benz
+                    continues to lead in luxury and technology, maintaining its
+                    status as a premier automaker.
                   </p>
                 </div>
               </a>
@@ -151,20 +154,26 @@ const Blog = () => {
                 <img
                   role="presentation"
                   className="object-cover w-full rounded h-44 dark:bg-gray-500"
-                  src="https://source.unsplash.com/random/480x360?5"
+                  src="https://s3-prod.autonews.com/s3fs-public/IEIGHT-MAIN_i.jpg"
                 />
                 <div className="p-6 space-y-2">
                   <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
-                    In usu laoreet repudiare legendos
+                    BMW
                   </h3>
                   <span className="text-xs dark:text-gray-400">
-                    January 25, 2021
+                    January 25, 2022
                   </span>
                   <p>
-                    Mei ex aliquid eleifend forensibus, quo ad dicta apeirian
-                    neglegentur, ex has tantas percipit perfecto. At per tempor
-                    albucius perfecto, ei probatus consulatu patrioque mea, ei
-                    vocent delicata indoctum pri.
+                    BMW, short for Bayerische Motoren Werke AG, is a renowned
+                    German automobile manufacturer known for producing
+                    high-performance and luxury vehicles. Founded in 1916, BMW
+                    has established itself as a symbol of precision engineering,
+                    delivering a range of cars that combine powerful engines,
+                    innovative technology, and elegant design. Whether it's
+                    their sporty M-series, versatile SUVs, or stylish sedans,
+                    BMW consistently caters to drivers seeking a balance of
+                    performance, comfort, and prestige in their automotive
+                    experience.
                   </p>
                 </div>
               </a>
