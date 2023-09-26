@@ -6,21 +6,17 @@ const Team = () => {
         <section className="py-6 dark:bg-gray-800 dark:text-gray-100">
           <div className="container p-4 mx-auto space-y-16 sm:p-10">
             <div className="space-y-4">
-              <h3 className="text-2xl font-bold leadi sm:text-5xl">
+              <h3 className="text-2xl font-bold leadi sm:text-5xl text-center">
                 Meet our team
               </h3>
-              <p className="max-w-2xl dark:text-gray-400">
-                At a assumenda quas cum earum ut itaque commodi saepe rem
-                aspernatur quam natus quis nihil quod, hic explicabo doloribus
-                magnam neque, exercitationem eius sunt!
-              </p>
+              <p className="max-w-2xl dark:text-gray-400"></p>
             </div>
             <div className="grid w-full grid-cols-1 gap-x-6 gap-y-12 sm:grid-cols-2 lg:grid-cols-4">
               <div className="space-y-4">
                 <img
                   alt=""
                   className="object-cover h-56 mx-auto mb-4 bg-center rounded-sm dark:bg-gray-500"
-                  src="https://source.unsplash.com/240x320/?portrait?0"
+                  src="https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1695737782~exp=1695738382~hmac=496a2d311233f184d9e2502c38fc31a486d4431b28e34710f3b7083a12557aa8"
                 />
                 <div className="flex flex-col items-center">
                   <h4 className="text-xl font-semibold">Leroy Jenkins</h4>
@@ -78,11 +74,11 @@ const Team = () => {
                 <img
                   alt=""
                   className="object-cover h-56 mx-auto mb-4 bg-center rounded-sm dark:bg-gray-500"
-                  src="https://source.unsplash.com/240x320/?portrait?1"
+                  src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 />
                 <div className="flex flex-col items-center">
-                  <h4 className="text-xl font-semibold">Leroy Jenkins</h4>
-                  <p className="text-sm dark:text-gray-400">Web developer</p>
+                  <h4 className="text-xl font-semibold">David</h4>
+                  <p className="text-sm dark:text-gray-400">UI/UX Designer</p>
                   <div className="flex mt-2 space-x-2">
                     <a
                       rel="noopener noreferrer"
@@ -136,11 +132,11 @@ const Team = () => {
                 <img
                   alt=""
                   className="object-cover h-56 mx-auto mb-4 bg-center rounded-sm dark:bg-gray-500"
-                  src="https://source.unsplash.com/240x320/?portrait?2"
+                  src="https://images.pexels.com/photos/262391/pexels-photo-262391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 />
                 <div className="flex flex-col items-center">
-                  <h4 className="text-xl font-semibold">Leroy Jenkins</h4>
-                  <p className="text-sm dark:text-gray-400">Web developer</p>
+                  <h4 className="text-xl font-semibold">William</h4>
+                  <p className="text-sm dark:text-gray-400">Devops Engineer</p>
                   <div className="flex mt-2 space-x-2">
                     <a
                       rel="noopener noreferrer"
@@ -194,11 +190,13 @@ const Team = () => {
                 <img
                   alt=""
                   className="object-cover h-56 mx-auto mb-4 bg-center rounded-sm dark:bg-gray-500"
-                  src="https://source.unsplash.com/240x320/?portrait?3"
+                  src="https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?w=740&t=st=1695738074~exp=1695738674~hmac=32698ef8ddd22281ce8e77b2fb6ec7bba6438dc69361d43ee3e4854c0d4ae0ae"
                 />
                 <div className="flex flex-col items-center">
-                  <h4 className="text-xl font-semibold">Leroy Jenkins</h4>
-                  <p className="text-sm dark:text-gray-400">Web developer</p>
+                  <h4 className="text-xl font-semibold">Olivia</h4>
+                  <p className="text-sm dark:text-gray-400">
+                    Frontend developer
+                  </p>
                   <div className="flex mt-2 space-x-2">
                     <a
                       rel="noopener noreferrer"
@@ -252,11 +250,11 @@ const Team = () => {
                 <img
                   alt=""
                   className="object-cover h-56 mx-auto mb-4 bg-center rounded-sm dark:bg-gray-500"
-                  src="https://source.unsplash.com/240x320/?portrait?4"
+                  src="https://images.pexels.com/photos/1090387/pexels-photo-1090387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 />
                 <div className="flex flex-col items-center">
-                  <h4 className="text-xl font-semibold">Leroy Jenkins</h4>
-                  <p className="text-sm dark:text-gray-400">Web developer</p>
+                  <h4 className="text-xl font-semibold">Sophia</h4>
+                  <p className="text-sm dark:text-gray-400">Cloud Engineer</p>
                   <div className="flex mt-2 space-x-2">
                     <a
                       rel="noopener noreferrer"
@@ -310,11 +308,11 @@ const Team = () => {
                 <img
                   alt=""
                   className="object-cover h-56 mx-auto mb-4 bg-center rounded-sm dark:bg-gray-500"
-                  src="https://source.unsplash.com/240x320/?portrait?5"
+                  src="https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=740&t=st=1695737850~exp=1695738450~hmac=d357011b1bd484501549b3e9e72997f633840dd5ef5d3fc980ad4e0d158e1e10"
                 />
                 <div className="flex flex-col items-center">
-                  <h4 className="text-xl font-semibold">Leroy Jenkins</h4>
-                  <p className="text-sm dark:text-gray-400">Web developer</p>
+                  <h4 className="text-xl font-semibold">Alexander</h4>
+                  <p className="text-sm dark:text-gray-400">Data Scientist</p>
                   <div className="flex mt-2 space-x-2">
                     <a
                       rel="noopener noreferrer"
@@ -368,11 +366,11 @@ const Team = () => {
                 <img
                   alt=""
                   className="object-cover h-56 mx-auto mb-4 bg-center rounded-sm dark:bg-gray-500"
-                  src="https://source.unsplash.com/240x320/?portrait?6"
+                  src="https://img.freepik.com/free-photo/handsome-businessman-suit-glasses-cross-arms-chest-look_176420-21750.jpg?w=740&t=st=1695737982~exp=1695738582~hmac=6ab0bd7f35b07ed612fb71b7d51ce502a07c4e2f6713ef6100b125407b393581"
                 />
                 <div className="flex flex-col items-center">
-                  <h4 className="text-xl font-semibold">Leroy Jenkins</h4>
-                  <p className="text-sm dark:text-gray-400">Web developer</p>
+                  <h4 className="text-xl font-semibold">Benjamin</h4>
+                  <p className="text-sm dark:text-gray-400">Business Analyst</p>
                   <div className="flex mt-2 space-x-2">
                     <a
                       rel="noopener noreferrer"
@@ -426,11 +424,11 @@ const Team = () => {
                 <img
                   alt=""
                   className="object-cover h-56 mx-auto mb-4 bg-center rounded-sm dark:bg-gray-500"
-                  src="https://source.unsplash.com/240x320/?portrait?7"
+                  src="https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 />
                 <div className="flex flex-col items-center">
-                  <h4 className="text-xl font-semibold">Leroy Jenkins</h4>
-                  <p className="text-sm dark:text-gray-400">Web developer</p>
+                  <h4 className="text-xl font-semibold">Emily</h4>
+                  <p className="text-sm dark:text-gray-400">ML Engineer</p>
                   <div className="flex mt-2 space-x-2">
                     <a
                       rel="noopener noreferrer"

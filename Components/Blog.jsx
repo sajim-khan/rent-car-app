@@ -104,7 +104,7 @@ const Blog = () => {
                     Bugatti
                   </h3>
                   <span className="text-xs dark:text-gray-400">
-                    January 7, 2023
+                    July 7, 2023
                   </span>
                   <p>
                     Bugatti is a famous French carmaker known for its super-fast
@@ -133,7 +133,7 @@ const Blog = () => {
                     Mercedes
                   </h3>
                   <span className="text-xs dark:text-gray-400">
-                    January 24, 2021
+                    April 24, 2021
                   </span>
                   <p>
                     Mercedes-Benz, a renowned German automaker founded in 1926,
@@ -161,19 +161,17 @@ const Blog = () => {
                     BMW
                   </h3>
                   <span className="text-xs dark:text-gray-400">
-                    January 25, 2022
+                    February 25, 2022
                   </span>
                   <p>
                     BMW, short for Bayerische Motoren Werke AG, is a renowned
                     German automobile manufacturer known for producing
-                    high-performance and luxury vehicles. Founded in 1916, BMW
-                    has established itself as a symbol of precision engineering,
-                    delivering a range of cars that combine powerful engines,
-                    innovative technology, and elegant design. Whether it's
-                    their sporty M-series, versatile SUVs, or stylish sedans,
-                    BMW consistently caters to drivers seeking a balance of
-                    performance, comfort, and prestige in their automotive
-                    experience.
+                    high-performance and luxury vehicles. BMW has established
+                    itself as a symbol of precision engineering, delivering a
+                    range of cars that combine powerful engines, innovative
+                    technology, and elegant design. BMW consistently caters to
+                    drivers seeking a balance of performance, comfort, and
+                    prestige in their automotive experience.
                   </p>
                 </div>
               </a>
@@ -185,20 +183,23 @@ const Blog = () => {
                 <img
                   role="presentation"
                   className="object-cover w-full rounded h-44 dark:bg-gray-500"
-                  src="https://source.unsplash.com/random/480x360?6"
+                  src="https://www.motortrend.com/uploads/2022/05/2023-Aston-Martin-V12-Vantage-front-three-quarter-3.jpg?fit=around%7C875:492.1875"
                 />
                 <div className="p-6 space-y-2">
                   <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
-                    In usu laoreet repudiare legendos
+                    Aston Martin
                   </h3>
                   <span className="text-xs dark:text-gray-400">
                     January 26, 2021
                   </span>
                   <p>
-                    Mei ex aliquid eleifend forensibus, quo ad dicta apeirian
-                    neglegentur, ex has tantas percipit perfecto. At per tempor
-                    albucius perfecto, ei probatus consulatu patrioque mea, ei
-                    vocent delicata indoctum pri.
+                    Porsche, the iconic German automaker founded in 1931 by
+                    Ferdinand Porsche, is renowned for producing
+                    high-performance sports cars, SUVs, and sedans.Porsche's expansion into the SUV
+                    market with models like the Cayenne and Macan has broadened
+                    its appeal, while its commitment to innovation and
+                    limited-edition releases ensures its status as a symbol of
+                    automotive excellence and heritage in the modern era.
                   </p>
                 </div>
               </a>
