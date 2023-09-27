@@ -183,11 +183,11 @@ const Blog = () => {
                 <img
                   role="presentation"
                   className="object-cover w-full rounded h-44 dark:bg-gray-500"
-                  src="https://www.motortrend.com/uploads/2022/05/2023-Aston-Martin-V12-Vantage-front-three-quarter-3.jpg?fit=around%7C875:492.1875"
+                  src="https://s3.amazonaws.com/images.gearjunkie.com/uploads/2022/07/GJGT3-9023-1380x920.jpg"
                 />
                 <div className="p-6 space-y-2">
                   <h3 className="text-2xl font-semibold group-hover:underline group-focus:underline">
-                    Aston Martin
+                    Porsche
                   </h3>
                   <span className="text-xs dark:text-gray-400">
                     January 26, 2021
@@ -195,11 +195,12 @@ const Blog = () => {
                   <p>
                     Porsche, the iconic German automaker founded in 1931 by
                     Ferdinand Porsche, is renowned for producing
-                    high-performance sports cars, SUVs, and sedans.Porsche's expansion into the SUV
-                    market with models like the Cayenne and Macan has broadened
-                    its appeal, while its commitment to innovation and
-                    limited-edition releases ensures its status as a symbol of
-                    automotive excellence and heritage in the modern era.
+                    high-performance sports cars, SUVs, and sedans.Porsche's
+                    expansion into the SUV market with models like the Cayenne
+                    and Macan has broadened its appeal, while its commitment to
+                    innovation and limited-edition releases ensures its status
+                    as a symbol of automotive excellence and heritage in the
+                    modern era.
                   </p>
                 </div>
               </a>
@@ -219,3 +220,4 @@ const Blog = () => {
 };
 
 export default Blog;
+
